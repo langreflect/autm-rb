@@ -6,7 +6,7 @@ paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-header: Write something about you here...
+header: Few thoughts (mostly) about programming
 
 # contacts
 git: "https://github.com/langreflect"  #your github url here.
